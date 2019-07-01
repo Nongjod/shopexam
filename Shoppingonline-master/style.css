@@ -1,0 +1,17 @@
+.card{
+    margin-right: 20px;
+    margin-top: 20px; 
+}
+a{
+    border-color: #0BF3A6 !important;
+}
+/* <div class="card overflow-hidden" id="card-01" style="width:200px; height:300px; ">
+<img class="card-img-top" src="${data1.image_url}" alt="Card image"  style="height:100px" >
+<div class="card-body"  style="height:50px">
+<h6 class="card-title">${data1.name}</h6>
+<div class="card-text overflow-hidden" style="height:50px">${data1.description}</div>
+<div class="price">฿ ${data1.price}</div>
+<a href="#" class="btn btn-primary">See Profile</a>
+</div>
+</div>`)
+); */
